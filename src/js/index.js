@@ -1,4 +1,4 @@
-import validateService from "./service/validateService";
+import validateService from "./validateService";
 console.log("validateService:::", validateService.validateEmail);
 
 // Можна або так:
@@ -6,7 +6,7 @@ console.log("validateService:::", validateService.validateEmail);
 // console.log("apiService:::", apiService);
 
 // або так:
-import { fetchAllUsers, fetchById, updateUserById, x as value, y as name } from "./service/apiService";
+import { fetchAllUsers, fetchById, updateUserById, x as value, y as name } from "./apiService";
 console.log("fetchAllUsers:::", fetchAllUsers);
 console.log("fetchById:::", fetchById);
 console.log("updateUserById:::", updateUserById);
