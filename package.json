@@ -2,7 +2,7 @@
   "name": "js",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx parcel src/index.html"
+    "start": "npx parcel index.html"
   },
   "author": "Andrii Kondratovich <andrii.kondratovcih@gmail.com>",
   "dependencies": {
