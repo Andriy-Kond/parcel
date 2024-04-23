@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "homepage": "https://andriy-kond.github.io/parcel/",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel src/*.html --public-url /parcel/"
+    "start": "parcel *.html",
+    "build": "parcel *.html --public-url /parcel/"
   },
   "author": "Andrii Kondratovich <andrii.kondratovcih@gmail.com>",
   "dependencies": {
